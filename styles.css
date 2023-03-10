@@ -1,0 +1,60 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+.btn {
+  margin: 5rem auto 0;
+  padding: 7px 24px;
+  font-size: 2rem;
+  font-weight: 700;
+  font-family: 'Lobster', cursive;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: rgb(188, 0, 0);
+  border: none;
+  width: fit-content;
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 2%;
+  text-align: center;
+}
+
+p a {
+  color: red;
+  font-family: 'Lobster', cursive;
+}
